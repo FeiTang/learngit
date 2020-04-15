@@ -1,3 +1,5 @@
 merge test
 
 Next Time
+
+New line
