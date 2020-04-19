@@ -3,3 +3,5 @@ Test branch
 New Line
 diff
 color mark
+
+Fix bug
