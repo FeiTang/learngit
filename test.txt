@@ -1,10 +1,7 @@
 Test branch
-<<<<<<< HEAD
-=======
 
 New Line
 diff
 color mark
 
 Fix bug
->>>>>>> 34f21c0... fix bug
